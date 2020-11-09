@@ -17,7 +17,7 @@ var config = {
     ],
    
     imgs: {
-        "小可爱": "./imgs/.png",
+        "小可爱": "./imgs/queeny.jpg",
         
     },
    
